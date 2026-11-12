@@ -1,4 +1,4 @@
-#Required
+# Required
 JS Injector: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
 
 # Jellyfin-library-disks-widget
