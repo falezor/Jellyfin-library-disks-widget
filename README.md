@@ -1,5 +1,6 @@
 # Required
 JS Injector: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
+
 IT WILL LAG YOUR DASHBOARD FOR FEW SEC - it has to get disks, so if u have like idk 10+ it will probably take few sec to load, idk, tested with 4 disk attached to libraries.
 
 # Jellyfin-library-disks-widget
