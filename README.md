@@ -9,6 +9,7 @@ JS inject for your server so you can see current disk capacity directly on Dashb
 
 A small dashboard widget for Jellyfin that shows **which disks hold your library folders**, how full they are, how much space is free and how big each disk is. No C# plugin, no compiling, no API key: it is a single script for the JS Injector plugin.
 
+<img width="1603" height="302" alt="image" src="https://github.com/user-attachments/assets/ed1010b2-6d97-4976-bb40-515a54a30ae6" />
 
 
 Jellyfin's built-in **Paths** card only shows Jellyfin's own folders (cache, metadata, logs). This widget shows the disks your *libraries* live on.
