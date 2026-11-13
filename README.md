@@ -86,7 +86,7 @@ After changing the language in Jellyfin, refresh the page.
 
 ## Tested
 
-Jellyfin 12.4 on Linuxb bare metal(test Docker yourself ), Vivaldi(any chromium based will work, all browsers should work I think), dark and light theme, English / Polish / German UI. Other translations were written without native-speaker review, corrections welcome.
+Jellyfin 12.4 on Linuxb bare metal(test Docker yourself ), Vivaldi(any chromium based will work, all browsers should work I think), dark and light theme, English / Polish UI. Other translations were written without native-speaker review, corrections welcome.
 
 ## License
 
